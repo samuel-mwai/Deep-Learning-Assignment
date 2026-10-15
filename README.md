@@ -232,7 +232,7 @@ Any real-world application would require appropriate privacy safeguards, fairnes
 
 Data Science & Analytics | Machine Learning | Deep Learning | Python
 
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/samuel-mwai)
+GitHub:(https://github.com/samuel-mwai)
 
 ## 📄 License
 
